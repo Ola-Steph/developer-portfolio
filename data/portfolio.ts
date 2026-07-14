@@ -6,7 +6,7 @@ export const heroData: HeroData = {
   title: "Backend-Focused Full-Stack Software Engineer",
 
   subtitle:
-    "I build secure, scalable web applications using Node.js, Express, TypeScript, Next.js and MongoDB. Experienced in developing production-ready systems with authentication, role-based access control, Docker, CI/CD, and cloud deployment.",
+    " I build secure, scalable web applications using Node.js, Express, TypeScript, Next.js and MongoDB. Experienced in developing production-ready systems with authentication, role-based access control, Docker, CI/CD, and cloud deployment.",
 
   availability: "Available for Remote Software Engineering Roles",
 

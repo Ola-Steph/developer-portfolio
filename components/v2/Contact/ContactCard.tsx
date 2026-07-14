@@ -14,10 +14,10 @@ export default function ContactCard() {
           </p>
 
           <a
-            href="mailto:YOUR_EMAIL"
+            href="mailto:stephjaiye@gmail.com"
             className="mt-1 block text-white transition hover:text-blue-400"
           >
-            YOUR_EMAIL
+            stephjaiye@gmail.com
           </a>
         </div>
 
@@ -57,7 +57,7 @@ export default function ContactCard() {
           </p>
 
           <p className="mt-1 text-white">
-            Nigeria • Open to Relocation • Remote
+              Open to Relocation • Open to Remote Positions
           </p>
         </div>
 
