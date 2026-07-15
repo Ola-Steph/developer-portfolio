@@ -27,12 +27,12 @@ export default function ContactCard() {
           </p>
 
           <a
-            href="https://github.com/YOUR_USERNAME"
+            href="github.com/Ola-Steph"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-1 block text-white transition hover:text-blue-400"
           >
-            github.com/YOUR_USERNAME
+            github.com/Ola-Steph
           </a>
         </div>
 
@@ -42,12 +42,12 @@ export default function ContactCard() {
           </p>
 
           <a
-            href="https://linkedin.com/in/YOUR_LINKEDIN"
+            href="linkedin.com/in/jaiyeola-stephen-b04559260"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-1 block text-white transition hover:text-blue-400"
           >
-            linkedin.com/in/YOUR_LINKEDIN
+            linkedin.com/in/jaiyeola-stephen-b04559260
           </a>
         </div>
 

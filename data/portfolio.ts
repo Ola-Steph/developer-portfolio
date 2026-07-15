@@ -32,11 +32,11 @@ export const heroData: HeroData = {
   socialLinks: [
     {
       label: "GitHub",
-      href: "",
+      href: "github.com/Ola-Steph",
     },
     {
       label: "LinkedIn",
-      href: "",
+      href: "linkedin.com/in/jaiyeola-stephen-b04559260 ",
     },
     {
       label: "Email",

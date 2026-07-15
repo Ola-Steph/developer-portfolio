@@ -17,7 +17,7 @@ export default function HeroButtons() {
 </Button>
 
       <Button
-        href="https://github.com/YOUR_USERNAME"
+        href="https://github.com/Ola-Steph"
         variant="secondary"
       >
         {/* <Github size={18} /> */}
